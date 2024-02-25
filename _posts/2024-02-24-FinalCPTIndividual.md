@@ -43,6 +43,6 @@ Game website with multiple games of different genres.
 | Your video may NOT contain: Any distinguishing information about yourself, Voice narration (though text captions are encouraged) | Y |
 | Your video must be: Either .webm, .mp4, .wmv, .avi, or .mov format | Y |
 | No more than 1 minute in length | Y |
-| No more than 30MB in file size | Y |
+| No more than 30MB in file size (Getting under 30 MB is an extreme pain in the behind) | Y |
 
 
