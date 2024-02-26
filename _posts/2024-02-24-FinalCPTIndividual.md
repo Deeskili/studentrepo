@@ -33,7 +33,7 @@ Game website with multiple games of different genres.
 
 ## Component B: Video 
 
-[Video Link](https://drive.google.com/file/d/1ABuaUy8QQnu4C5bEtYBdWsV4WsEGpEy8/view?usp=sharing)
+[Video Link](https://drive.google.com/file/d/15C9iKChv8fbQRyN_Z1NLMsFOUbKZYY-s/view?usp=sharing)
 
 | Requirements | Completed | 
 | --------------- | -----------------| 
